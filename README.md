@@ -2,8 +2,8 @@
 =====================================================
 
 This GitHub repository contains all source code for each of the 20 lessons (framework & 19 demos) the book "3D Computer Graphics: Software Revealed" has.
-Users are welcomed to fork, change, and update for inclusion of future versions of the book. If your changes make it to the main branch, you'll recieve
-a free digital copy (the formatted PDF version, not the HTML version), and your name included in the contributors list!
+Users are welcomed to fork, change, and update for inclusion of future versions of the book. If your changes make it to the main branch, you'll receive
+a free digital copy (the formatted PDF version, not the HTML version since that's already free), and your name included in the contributors list!
 
 Learn more about this book through my [blog post](http://www.cores2.com/blog/?p=204), and feel free to comment there!
 
