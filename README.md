@@ -23,7 +23,7 @@ License
 
 TL;DR: Do whatever you want with this code, as long as 1. If you redistribute, please include my name. 2. You may not redistribute for any comercial benifits (i.e. inclusion with a paid product, asking for money, etc.)
 
-Simplified BSD *** MODIFIED FOR NON-COMMERCIAL USE ONLY!!! ***
+Simplified BSD (MODIFIED FOR NON-COMMERCIAL USE ONLY)
 
 Copyright (c) 2012, Jeremy Bridon (Core S2 Software Solutions)
 
